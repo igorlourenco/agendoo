@@ -22,7 +22,7 @@ export default function CallToActionWithIllustration () {
                     fontWeight={600}
                     fontSize={{ base: '3xl', sm: '4xl', md: '6xl' }}
                     lineHeight={'110%'}>
-                    Marque horários com seus clientes e{' '}
+                    Marque horários com seus clientes{' '}
                     <Text as={'span'} color={'orange.400'}>
                         de forma fácil e rápida.
                     </Text>
